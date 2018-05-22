@@ -1,4 +1,4 @@
-var playlist = {
+playlist = {
   billyJoel: "Piano Man"
 }
 
