@@ -1,7 +1,7 @@
-var playlist = new Object({
+var playlist = {
   billyJoel: "Piano Man"
-})
+}
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist.assign( { artistName: songTitle } );
+  playlist['playlist'] = 'songTitle'
 }
